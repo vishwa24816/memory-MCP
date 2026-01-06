@@ -1,25 +1,3 @@
-# Crash Course: Building AI Agents with Open-Source Tools
-
-This project is a hands-on crash course on building AI agents using a 100% open-source tech stack! You'll learn:
-
-- What is an AI agent
-- Connecting agents to tools
-- Overview of MCP (Multi-Component Protocol)
-- Replacing tools with MCP servers
-- Setting up observability and tracing
-
-All concepts are demonstrated with real, runnable code.
-
-### Watch this tutorial on YouTube
-<a href="https://youtu.be/R6sMAZaTCR4">
-  <img src="assets/thumbnail.jpeg" alt="Watch this tutorial on YouTube" width="550"/>
-</a>
-
-## What is an AI Agent?
-
-An AI agent uses an LLM as its brain, has memory to retain context, and can take real-world actions through tools (like browsing the web, running code, etc.).
-
-In short: it thinks, remembers, and acts.
 
 ## Tech Stack
 
@@ -102,12 +80,6 @@ You should see a response from the model. If you get any errors, check that Olla
 
   Follow the instructions in the [Graphiti MCP README](https://github.com/patchy631/ai-engineering-hub/blob/main/graphiti-mcp/README.md)
 
-
-## 📬 Stay Updated with Our Newsletter!
-
-**Get a FREE Data Science eBook** 📖 with 150+ essential lessons in Data Science when you subscribe to our newsletter! Stay in the loop with the latest tutorials, insights, and exclusive resources. [Subscribe now!](https://join.dailydoseofds.com)
-
-[![Daily Dose of Data Science Newsletter](https://github.com/patchy631/ai-engineering/blob/main/resources/join_ddods.png)](https://join.dailydoseofds.com)
 
 ## Contribution
 
